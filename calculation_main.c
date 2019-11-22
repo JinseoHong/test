@@ -35,6 +35,8 @@ int main(void)
 	scanf("%d",&num1);
 	printf("숫자 2 입력하세용(정수) : ");
 	scanf("%d",&num2);
+	
+	printf("hi guys\n");
 
 	while(1)
 	{
